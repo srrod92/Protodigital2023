@@ -4,4 +4,5 @@ lifePoint = 10
 Velocidad = 8
 stamina = 10
 
-habilidad = Habilidad2 (Lazer Shoot)
+Habilidad1= Habilidad 1 (Doble shoot)
+habilidad2 = Habilidad2 (Lazer Shoot)
