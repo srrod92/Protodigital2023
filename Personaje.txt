@@ -3,3 +3,5 @@ Ramonsito
 lifePoint = 10
 Velocidad = 8
 stamina = 10
+
+Habilidad= Habilidad 1 (Doble shoot)
