@@ -1,5 +1,5 @@
 Ramonsito
 
 lifePoint = 10
-Agility = 10
+Velocidad = 8
 stamina = 10
