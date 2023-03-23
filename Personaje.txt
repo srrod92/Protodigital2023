@@ -1,0 +1,5 @@
+Ramonsito
+
+lifePoint = 10
+Agility = 10
+stamina = 10
