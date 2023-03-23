@@ -3,3 +3,5 @@ Ramonsito
 lifePoint = 10
 Velocidad = 8
 stamina = 10
+
+habilidad = Habilidad2 (Lazer Shoot)
